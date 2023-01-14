@@ -5,7 +5,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammyfreitas" alt="sammyfreitas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@tonysdefreitas" target="blank"><img src="https://img.shields.io/twitter/follow/@tonysdefreitas?logo=twitter&style=for-the-badge" alt="@tonysdefreitas" /></a> </p>
+
+
+
+<p align="center">
+	<a href="http://python.org/">
+	  <img alt="Python" src="https://img.shields.io/static/v1?color=blue&label=Dev&message=Python&style=for-the-badge&logo=Python">
+	</a>
+  <a href="https://dev.java/">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=for-the-badge&logo=Java">
+	</a>
+	<a href="https://www.javascript.com/">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=yellow&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
+	</a>
+  	<a href="http://html.com/">
+	  <img alt="HTML" src="https://img.shields.io/static/v1?color=lightblue&label=Dev&message=HTML&style=for-the-badge&logo=HTML">
+	</a>
+  	</a>
+  	<a href="https://orgmode.org/manual/CSS-support.html">
+	  <img alt="CSS" src="https://img.shields.io/static/v1?color=orange&label=Dev&message=CSS&style=for-the-badge&logo=CSS">
+	</a>
+  <a href="https://www.arduino.cc/">
+	  <img alt="Arduino" src="https://img.shields.io/static/v1?color=yellowgreen&label=Dev&message=Arduino&style=for-the-badge&logo=Arduino">
+	</a>
+  
+</p>
 
 - 🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)
 
