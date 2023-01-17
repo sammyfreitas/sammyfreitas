@@ -32,10 +32,36 @@
 </p>
 
 - 🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)
+- 🔭 Mas também sou formado em:
+- [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
+- [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
+- [Administração (Bacharelado)](na Universidade Estácio de Sá)
+- [História (Licenciatura](na Unicesumar)
+- E tranquei [Matemática (Licenciatura](na Faculdades de Ciências da Bahia)
+
+- 🔭 Minhas Especializações são:
+
+MBA:
+- [MBA em Gestão da Qualidade de Software] (no Centro Educacional FAVENI)
+- [MBA em Engenharia de Software] (na FAMEESP - Faculdade Metropolitana de São Paulo)
+
+Pós-Graduação:
+- [Pós-Graduação em Arquitetura e Infraestrutura de Dados](na Faculdades de Ciências da Bahia)
+- [Pós Graduação em Desenvolvimento de Aplicações .Net](na Faculdade Facilita)
+- [Pós Graduação em Desenvolvimento de Sistemas com C#](na Faculdade Facilita)
+- [Pós Graduação em User Experience (UX) e User Interface (UI)](na Educaminas)
+- [Pós Graduação em Engenharia Ágil de Software](na Unyleya)
+
+Educação
+- [Pós Graduação Neuropsicopedagogia](na Facuminas)
+- [Pós Graduação em Ancient Egypt and its civilization](na University of Pensylvania)
+- [Pós Graduação em História da Arte](na Radiante Educacional)
+- [Pós Graduação em História do Rio de Janeiro](na IPN/UniRio)
+
 
 - 🌱 Estou sempre aprendendo nos **bootcamps da DIO**
 
-- 👯 Também estou estudando uma [Formação Python Developer](na Digital One)
+- 👯 Também estou estudando uma [Formação Python Developer] [Formação .NET Developer] [Formação UX Designer] [Formação Scrum Master] (na Digital One)
 
 - 🤝 E não menos importante, faço MBA em **UX Designer**
 
@@ -47,7 +73,7 @@
 
 - 📄 Encontra meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
 
-- ⚡ Engraçado como podemos ser diferentes... **Sou um homem trans com asperger**
+- ⚡ Todos somos diferentes e não podia ser mais diferente... **Sou um Homem Trans com Asperger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -141,11 +167,11 @@
 	</a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyfreitas&show_icons=true&locale=en&layout=compact" alt="sammyfreitas" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyfreitas&show_icons=true&locale=en&layout=compact" alt="anthonyfreitas" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyfreitas&show_icons=true&locale=en" alt="sammyfreitas" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyfreitas&show_icons=true&locale=en" alt="anthonyfreitas" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyfreitas&" alt="sammyfreitas" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyfreitas&" alt="anthonyfreitas" /></p>
 
 
 
