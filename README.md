@@ -30,8 +30,10 @@
 	</a>
   
 </p>
-# Minhas Formações são:
-🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)
+
+## Minhas Formações são:
+
+🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)<br>
 🔭 Mas também sou formado em:
 - [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
 - [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
@@ -39,42 +41,44 @@
 - [História (Licenciatura](na Unicesumar)
 - E tranquei [Matemática (Licenciatura](na Faculdades de Ciências da Bahia)
 
-# 🔭 Minhas Especializações são:
+## Minhas Especializações são:
 
-## MBA:
+### 🔭 MBA:
 - [MBA em Gestão da Qualidade de Software] (no Centro Educacional FAVENI)
 - [MBA em Engenharia de Software] (na FAMEESP - Faculdade Metropolitana de São Paulo)
 
-## Pós-Graduação:
+### 🔭 Pós-Graduação:
 - [Pós-Graduação em Arquitetura e Infraestrutura de Dados](na Faculdades de Ciências da Bahia)
 - [Pós Graduação em Desenvolvimento de Aplicações .Net](na Faculdade Facilita)
 - [Pós Graduação em Desenvolvimento de Sistemas com C#](na Faculdade Facilita)
 - [Pós Graduação em User Experience (UX) e User Interface (UI)](na Educaminas)
 - [Pós Graduação em Engenharia Ágil de Software](na Unyleya)
 
-## Educação
+### 🔭 Educação
 - [Pós Graduação Neuropsicopedagogia](na Facuminas)
 - [Pós Graduação em Ancient Egypt and its civilization](na University of Pensylvania)
 - [Pós Graduação em História da Arte](na Radiante Educacional)
 - [Pós Graduação em História do Rio de Janeiro](na IPN/UniRio)
 
 
-## Bootcamps
+### 🔭 Bootcamps
 🌱 Estou sempre aprendendo nos **bootcamps da DIO**
-- 👯 Também estou estudando uma [Formação Python Developer] [Formação .NET Developer] [Formação UX Designer] [Formação Scrum Master] (na Digital One)
+👯 Também estou estudando uma [Formação Python Developer] [Formação .NET Developer] [Formação UX Designer] [Formação Scrum Master] (na Digital One)
 
-## Projetos
-- 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/)
 
-## Linguagens Favoritas
-- 💬 Minhas linguagens favoritas são **python, .net, c#, java e codo jogos em javascript**
+### 🔭Projetos
+👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/)
 
-## Contato
-- 📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
 
-- 📄 Encontra meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
+### 🔭 Linguagens Favoritas
+💬 Minhas linguagens favoritas são **python, .net, c#, java e codo jogos em javascript**
 
-- ⚡ Todos somos diferentes e não podia ser mais diferente... **Sou um Homem Trans com Asperger**
+### 📫 Contato
+📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
+
+📄 E pode encontrar meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
+
+	⚡ Todos somos diferentes e não podia ser mais diferente... **Sou um Homem Trans com Asperger**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
