@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="sammyfreitas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammyfreitas" alt="sammyfreitas" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammyfreitas" alt="sammyfreitas" /></a> </p>
 
 
 
@@ -34,7 +34,7 @@
 ## Minhas Formações são:
 
 🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)<br>
-🔭 Estou atualmente estudando [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)<br>
+🔭 E também [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)<br>
 🔭 Mas também sou formado em:
 - [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
 - [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
