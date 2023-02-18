@@ -34,6 +34,7 @@
 ## Minhas Formações são:
 
 🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)<br>
+🔭 Estou atualmente estudando [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)<br>
 🔭 Mas também sou formado em:
 - [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
 - [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
