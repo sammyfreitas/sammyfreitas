@@ -64,19 +64,19 @@
 
 
 ### 🔭 Cursos Qualificação
--💬 Estou sempre aprendendo participando dos Cursos de Qualificação do **SENAI RJ MARACANÃ**
--💬 [Programador Front-End] (no SENAI MARACANÃ) (HTML + CSS + JavaScript + React)
--💬 [Programador Back-End] (no SENAI MARACANÃ)  (Python + MySQL + Modelagem de Sistemas + API Restful)
+- 💬 Estou sempre aprendendo participando dos Cursos de Qualificação do **SENAI RJ MARACANÃ**
+- 💬 [Programador Front-End] (no SENAI MARACANÃ) (HTML + CSS + JavaScript + React)
+- 💬 [Programador Back-End] (no SENAI MARACANÃ)  (Python + MySQL + Modelagem de Sistemas + API Restful)
 
 
 ### 🔭 Bootcamps
--💬  Estou sempre aprendendo nos **bootcamps da DIO** Atuais:
--💬  [Formação Python Developer] 
--💬  [Formação .NET Developer] 
--💬  [Formação UX Designer] 
--💬  [Formação React Dev] 
--💬  [Formação BI Analyst] 
--💬  [Formação Scrum Master] (na Digital One)
+- 💬  Estou sempre aprendendo nos **bootcamps da DIO** Atuais:
+- 💬  [Formação Python Developer] 
+- 💬  [Formação .NET Developer] 
+- 💬  [Formação UX Designer] 
+- 💬  [Formação React Dev] 
+- 💬  [Formação BI Analyst] 
+- 💬  [Formação Scrum Master] (na Digital One)
 
 
 ### 🔭Projetos
