@@ -35,6 +35,7 @@
 
 🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)<br>
 🔭 E também [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)<br>
+🔭 E também [Programador Back-End](no SENAI/Maracanã)<br>
 🔭 Mas também sou formado em:
 - [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
 - [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
@@ -62,9 +63,20 @@
 - [Pós Graduação em História do Rio de Janeiro](na IPN/UniRio)
 
 
+### 🔭 Cursos Qualificação
+🌱 Estou sempre aprendendo participando dos Cursos de Qualificação do **SENAI RJ MARACANÃ**
+👯 [Programador Front-End] (no SENAI MARACANÃ) (HTML + CSS + JavaScript + React)
+👯 [Programador Back-End] (no SENAI MARACANÃ)  (Python + MySQL + Modelagem de Sistemas + API Restful)
+
+
 ### 🔭 Bootcamps
-🌱 Estou sempre aprendendo nos **bootcamps da DIO**
-👯 Também estou estudando uma [Formação Python Developer] [Formação .NET Developer] [Formação UX Designer] [Formação Scrum Master] (na Digital One)
+🌱 Estou sempre aprendendo nos **bootcamps da DIO** Atuais:
+👯 [Formação Python Developer] 
+👯 [Formação .NET Developer] 
+👯 [Formação UX Designer] 
+👯 [Formação React Dev] 
+👯 [Formação BI Analyst] 
+👯 [Formação Scrum Master] (na Digital One)
 
 
 ### 🔭Projetos
