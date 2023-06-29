@@ -68,15 +68,26 @@
 - 💬 [Programador Back-End] (no SENAI MARACANÃ)  (Python + MySQL + Modelagem de Sistemas + API Restful)
 
 
-### 🔭 Bootcamps
-- 💬  Estou sempre aprendendo nos **bootcamps da DIO** Atuais:
+### 🔭 Bootcamps (em andamento)
+- 💬  Estou sempre aprendendo nos **bootcamps da DIO** (em andamento):
 - 💬  [Formação Python Developer] 
 - 💬  [Formação .NET Developer] 
 - 💬  [Formação UX Designer] 
 - 💬  [Formação React Dev] 
 - 💬  [Formação BI Analyst] 
-- 💬  [Formação Scrum Master] (na Digital One)
 
+- 💬  Outros BootCamps (em andamento):
+- 💬  [Engenheiro de Dados - Ada Tech - Santander Coders 2023]
+- 💬  [ProgramAÇÃO - Recode]
+- 💬  [Gestão de Projetos e Aplicativos de Impacto - Recode]
+
+### 🔭 Bootcamps (finalizados)
+- 💬  **Bootcamps da DIO**:
+- 💬  [Banco Pan Java Developer]
+- 💬  [Formação HTML Web Developer]
+- 💬  [Potencia Tech IFOOD Java Begginers]
+- 💬  [Santander Code Girls (Java)]
+- 💬  [Formação Scrum Master] (na Digital One)
 
 ### 🔭Projetos
 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/)
