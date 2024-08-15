@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Sou Anthony Freitas</h1>
-<h3 align="center">Sou um homem trans com Asperger e também Analista de Testes na CarrierWeb e Desenvolvedor Front-end Freelancer Brasileiro. Gosto de aprender coisas novas e minha paixão é codar. Atualmente estou estudando mais Python, Perl, C# e C++, Java, .Net, JavaScript, CSS, HTML. Quero aprender mais sobre  Reactjs, React Native, Nodejs dentre outras linguagens e frameworks.</h3>
+<h3 align="center">Sou um homem trans com Asperger e também Engenheiro de Testes na CarrierWeb, Professor de Programação e Tecnologias no Senai Maracanã e Desenvolvedor Front-end Freelancer. Gosto de aprender coisas novas e minha paixão é codar. Atualmente estou estudando mais Python, Perl, C# e C++, Java, .Net, JavaScript, CSS, HTML. Quero aprender mais sobre  Reactjs, React Native, Nodejs dentre outras linguagens e frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="sammyfreitas" /> </p>
 
