@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋, Sou Anthony Freitas</h1>
-<h3 align="center">Sou um homem trans com Asperger e também Engenheiro de Testes na CarrierWeb, Professor de Programação e Tecnologias no Senai Maracanã e Desenvolvedor Front-end Freelancer. Gosto de aprender coisas novas e minha paixão é codar. Atualmente estou estudando mais Python, Perl, C# e C++, Java, .Net, JavaScript, CSS, HTML. Quero aprender mais sobre  Reactjs, React Native, Nodejs dentre outras linguagens e frameworks.</h3>
+<h3 align="center">Sou autista, mas no passado, diziam que era Asperger. As nomenclaturas mudaram, mas o hiperfoco continua na área de programação, Trabalho como Engenheiro na CarrierWeb e Professor de Programação e Tecnologias no Senai Maracanã, além de ser um desenvolvedor Front-end Freelancer. Gosto de aprender coisas novas e minha paixão é codar. Estou sempre estudando Java, Python, Perl e C++, além de curtir o front com React/Node.js, JS, CSS, HTML. Mas não descarto aprender mais sobreoutras linguagens e frameworks. Gostando de atuar com data analytics, data science e machine learning. Tudo por esporte, rs</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="sammyfreitas" /> </p>
 
@@ -33,10 +33,13 @@
 
 ## Minhas Formações são:
 
-🔭 Estou atualmente estudando [Engenharia de Software](na Unicesumar)<br>
-🔭 E também [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)<br>
+🔭 Estou atualmente estudando [Jogos Digitais](na Unifatecie)<br>
+🔭 E também [Pós em Docência do Ensino Superior](na Unicesumar)<br>
+🔭 E também [Pós em Ciência de Dados](na Unicesumar)<br>
 🔭 Mas também sou formado em:
+- [Engenharia de Software (Bacharelado)](na Unicesumar)
 - [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
+- [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)
 - [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
 - [Administração (Bacharelado)](na Universidade Estácio de Sá)
 - [História (Licenciatura](na Unicesumar)
@@ -63,23 +66,9 @@
 
 
 ### 🔭 Cursos Qualificação
-- 💬 Estou sempre aprendendo participando dos Cursos de Qualificação do **SENAI RJ MARACANÃ**
+- 💬 Participei dos Cursos de Qualificação do **SENAI RJ MARACANÃ** onde hoje sou Professor
 - 💬 [Programador Front-End] (no SENAI MARACANÃ) (HTML + CSS + JavaScript + React)
 - 💬 [Programador Back-End] (no SENAI MARACANÃ)  (Python + MySQL + Modelagem de Sistemas + API Restful)
-
-
-### 🔭 Bootcamps (em andamento)
-- 💬  Estou sempre aprendendo nos **bootcamps da DIO** (em andamento):
-- 💬  [Formação Python Developer] 
-- 💬  [Formação .NET Developer] 
-- 💬  [Formação UX Designer] 
-- 💬  [Formação React Dev] 
-- 💬  [Formação BI Analyst] 
-
-- 💬  Outros BootCamps (em andamento):
-- 💬  [Engenheiro de Dados - Ada Tech - Santander Coders 2023]
-- 💬  [ProgramAÇÃO - Recode]
-- 💬  [Gestão de Projetos e Aplicativos de Impacto - Recode]
 
 ### 🔭 Bootcamps (finalizados)
 - 💬  **Bootcamps da DIO**:
@@ -88,18 +77,39 @@
 - 💬  [Potencia Tech IFOOD Java Begginers]
 - 💬  [Santander Code Girls (Java)]
 - 💬  [Formação Scrum Master] (na Digital One)
+- 💬  [Formação Python Developer] 
+- 💬  [Formação .NET Developer] 
+- 💬  [Formação UX Designer] 
+- 💬  [Formação React Dev] 
+- 💬  [Formação BI Analyst]
+
+💬  **Outros BootCamps:**
+- 💬  [Engenheiro de Dados - Ada Tech - Santander Coders 2023]
+- 💬  [ProgramAÇÃO - Recode]
+- 💬  [Gestão de Projetos e Aplicativos de Impacto - Recode]
 
 ### 🔭Projetos
 👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/)
 
 
 ### 🔭 Linguagens Favoritas
-💬 Minhas linguagens favoritas são **python, .net, c#, java e codo jogos em javascript**
+💬 Minhas linguagens favoritas são **java, python, .net, c#, perl e codo jogos em javascript**
 
 ### 📫 Contato
 📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
 
 📄 E pode encontrar meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
+
+## Atuando como professor do Senai Maracanã:
+- 💬 [Programador Front-End] (HTML + CSS + JavaScript + React + Vite)
+- 💬 [Programador Back-End] (Python + MySQL + Modelagem de Sistemas + SpringBoot + API Restful)
+- 💬 [Desenvolvedor de Soluções Tecnológicas em Nuvem] (Microsserviços, Computação sem servidor, Integração DevOps, APIs RESTful, Conteiners, Big Data & Analytics, Aws, CodePipeline e CodeDeploy.
+- 💬 [Análise de Dados] 
+- 💬 [Operador de Computador]
+- 💬 [Excel Avançado] 
+- 💬 [Operador de Sistemas Computacionais em Rede] 
+- 💬 [Operador de Infra Estrutura em Rede]
+ 
 
 	⚡ Todos somos diferentes e não podia ser mais diferente... **Sou um Homem Trans com Asperger**
 
@@ -161,9 +171,7 @@
 	<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
 	</a> 
-	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
-	</a> 
+	
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
 	</a> 
