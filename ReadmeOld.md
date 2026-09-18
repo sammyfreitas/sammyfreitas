@@ -1,0 +1,202 @@
+<h1 align="center">Olá! 👋, Sou Anthony Freitas</h1>
+<h3 align="center">Sou autista, mas no passado, diziam que era Asperger. As nomenclaturas mudaram, mas o hiperfoco continua na área de programação, Trabalho como Engenheiro na CarrierWeb e Professor de Programação e Tecnologias no Senai Maracanã, além de ser um desenvolvedor Front-end Freelancer. Gosto de aprender coisas novas e minha paixão é codar. Estou sempre estudando Java, Python, Perl e C++, além de curtir o front com React/Node.js, JS, CSS, HTML. Mas não descarto aprender mais sobreoutras linguagens e frameworks. Gostando de atuar com data analytics, data science e machine learning. Tudo por esporte, rs</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="sammyfreitas" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sammyfreitas" alt="sammyfreitas" /></a> </p>
+
+
+
+
+<p align="center">
+	<a href="http://python.org/">
+	  <img alt="Python" src="https://img.shields.io/static/v1?color=blue&label=Dev&message=Python&style=for-the-badge&logo=Python">
+	</a>
+  <a href="https://dev.java/">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=red&label=Dev&message=Java&style=for-the-badge&logo=Java">
+	</a>
+	<a href="https://www.javascript.com/">
+	  <img alt="Java" src="https://img.shields.io/static/v1?color=yellow&label=Dev&message=JavaScript&style=for-the-badge&logo=Javascript">
+	</a>
+  	<a href="http://html.com/">
+	  <img alt="HTML" src="https://img.shields.io/static/v1?color=lightblue&label=Dev&message=HTML&style=for-the-badge&logo=HTML">
+	</a>
+  	</a>
+  	<a href="https://orgmode.org/manual/CSS-support.html">
+	  <img alt="CSS" src="https://img.shields.io/static/v1?color=orange&label=Dev&message=CSS&style=for-the-badge&logo=CSS">
+	</a>
+  <a href="https://www.arduino.cc/">
+	  <img alt="Arduino" src="https://img.shields.io/static/v1?color=yellowgreen&label=Dev&message=Arduino&style=for-the-badge&logo=Arduino">
+	</a>
+  
+</p>
+
+## Minhas Formações são:
+
+🔭 Estou atualmente estudando [Jogos Digitais](na Unifatecie)<br>
+🔭 E também [Pós em Docência do Ensino Superior](na Unicesumar)<br>
+🔭 E também [Pós em Ciência de Dados](na Unicesumar)<br>
+🔭 Mas também sou formado em:
+- [Engenharia de Software (Bacharelado)](na Unicesumar)
+- [Ciência da Computação (Bacharelado)](na Universidade Veiga de Almeida)
+- [Análise e Desenvolvimento de Sistemas](na Universidade Estácio de Sá)
+- [Comunicação Social - Habilitação em Jornalismo (Bacharelado)](na Universidade Veiga de Almeida)
+- [Administração (Bacharelado)](na Universidade Estácio de Sá)
+- [História (Licenciatura](na Unicesumar)
+- E tranquei [Matemática (Licenciatura](na Faculdades de Ciências da Bahia)
+
+## Minhas Especializações são:
+
+### 🔭 MBA:
+- [MBA em Gestão da Qualidade de Software] (no Centro Educacional FAVENI)
+- [MBA em Engenharia de Software] (na FAMEESP - Faculdade Metropolitana de São Paulo)
+
+### 🔭 Pós-Graduação:
+- [Pós-Graduação em Arquitetura e Infraestrutura de Dados](na Faculdades de Ciências da Bahia)
+- [Pós Graduação em Desenvolvimento de Aplicações .Net](na Faculdade Facilita)
+- [Pós Graduação em Desenvolvimento de Sistemas com C#](na Faculdade Facilita)
+- [Pós Graduação em User Experience (UX) e User Interface (UI)](na Educaminas)
+- [Pós Graduação em Engenharia Ágil de Software](na Unyleya)
+
+### 🔭 Educação
+- [Pós Graduação Neuropsicopedagogia](na Facuminas)
+- [Pós Graduação em Ancient Egypt and its civilization](na University of Pensylvania)
+- [Pós Graduação em História da Arte](na Radiante Educacional)
+- [Pós Graduação em História do Rio de Janeiro](na IPN/UniRio)
+
+
+### 🔭 Cursos Qualificação
+- 💬 Participei dos Cursos de Qualificação do **SENAI RJ MARACANÃ** onde hoje sou Professor
+- 💬 [Programador Front-End] (no SENAI MARACANÃ) (HTML + CSS + JavaScript + React)
+- 💬 [Programador Back-End] (no SENAI MARACANÃ)  (Python + MySQL + Modelagem de Sistemas + API Restful)
+
+### 🔭 Bootcamps (finalizados)
+- 💬  **Bootcamps da DIO**:
+- 💬  [Banco Pan Java Developer]
+- 💬  [Formação HTML Web Developer]
+- 💬  [Potencia Tech IFOOD Java Begginers]
+- 💬  [Santander Code Girls (Java)]
+- 💬  [Formação Scrum Master] (na Digital One)
+- 💬  [Formação Python Developer] 
+- 💬  [Formação .NET Developer] 
+- 💬  [Formação UX Designer] 
+- 💬  [Formação React Dev] 
+- 💬  [Formação BI Analyst]
+
+💬  **Outros BootCamps:**
+- 💬  [Engenheiro de Dados - Ada Tech - Santander Coders 2023]
+- 💬  [ProgramAÇÃO - Recode]
+- 💬  [Gestão de Projetos e Aplicativos de Impacto - Recode]
+
+### 🔭Projetos
+👨‍💻 Todos os meus projetos estão disponíveis no meu github e na minha página de portfólio: [https://sammyfreitas.github.io/portfolioSite/](https://sammyfreitas.github.io/portfolioSite/)
+
+
+### 🔭 Linguagens Favoritas
+💬 Minhas linguagens favoritas são **java, python, .net, c#, perl e codo jogos em javascript**
+
+### 📫 Contato
+📫 Minha caixa de entrada está sempre aberta. Se tiver alguma pergunta ou apenas dar um oizinho, será um prazer conversar com você! Bora conversar? **tonysdefreitas@gmail.com**
+
+📄 E pode encontrar meu curriculo e experiências no [https://sammyfreitas.github.io/portfolioSite/curriculo.html](https://sammyfreitas.github.io/portfolioSite/curriculo.html)
+
+## Atuando como professor do Senai Maracanã:
+- 💬 [Programador Front-End] (HTML + CSS + JavaScript + React + Vite)
+- 💬 [Programador Back-End] (Python + MySQL + Modelagem de Sistemas + SpringBoot + API Restful)
+- 💬 [Desenvolvedor de Soluções Tecnológicas em Nuvem] (Microsserviços, Computação sem servidor, Integração DevOps, APIs RESTful, Conteiners, Big Data & Analytics, Aws, CodePipeline e CodeDeploy.
+- 💬 [Análise de Dados] 
+- 💬 [Operador de Computador]
+- 💬 [Excel Avançado] 
+- 💬 [Operador de Sistemas Computacionais em Rede] 
+- 💬 [Operador de Infra Estrutura em Rede]
+ 
+
+	⚡ Todos somos diferentes e não podia ser mais diferente... **Sou um Homem Trans com Asperger**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@tonysdefreitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tonysdefreitas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tony-s-freitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tony-s-freitas" height="30" width="40" /></a>
+<a href="https://fb.com/anthonyfreitas78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anthonyfreitas78" height="30" width="40" /></a>
+<a href="https://instagram.com/anthony_tijuduke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anthony_tijuduke" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="center"> 
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+	</a> 
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+	</a> 
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+	</a>
+	<br><br>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+	</a> 
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+	</a> 
+	<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
+	</a>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+	</a> 
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+	</a> 
+	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+	</a>
+	<a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+	</a> 
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+	</a> 
+	<br><br>
+	<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+	</a> 
+	<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+	</a>  
+	<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
+	</a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+	</a> 
+	<br><br>
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+	</a> 
+	<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+	</a> 
+	<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+	</a> 	
+	<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
+		<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
+	</a> 
+	<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+	</a>  
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sammyfreitas&show_icons=true&locale=en&layout=compact" alt="anthonyfreitas" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sammyfreitas&show_icons=true&locale=en" alt="anthonyfreitas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyfreitas&" alt="anthonyfreitas" /></p>
+
+
+
+<!---
+sammyfreitas/sammyfreitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
