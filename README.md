@@ -116,6 +116,15 @@ Power BI, Excel, análise exploratória, visualização de dados e criação de 
 
 Sistemas operacionais, redes, hardware, segurança, metodologias de aprendizagem e desenho de experiências educacionais.
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ## Projetos em destaque
 
@@ -226,13 +235,6 @@ Estou aberto a trocar experiências sobre tecnologia, educação profissional, p
 - [Portfólio](https://sammyfreitas.github.io/portfolioSite/)
 - [E-mail](mailto:tonysdefreitas@gmail.com)
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake.svg">
-</picture>
 
 ---
 
