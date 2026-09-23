@@ -9,21 +9,113 @@
 <p align="center">
   Rio de Janeiro, Brasil 🇧🇷
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sammyfreitas&label=Profile%20views&color=0e75b6&style=flat" alt="sammyfreitas" /> </p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/tony-s-freitas/">LinkedIn</a> •
-  <a href="https://sammyfreitas.github.io/portfolioSite/">Portfólio</a> •
-  <a href="https://wa.me/5521986140005">WhatsApp</a> •
-  <a href="mailto:tonysdefreitas@gmail.com">E-mail</a>
+  <a href="https://www.linkedin.com/in/tony-s-freitas/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/5521986140005" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:tonysdefreitas@gmail.com">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+  <a href="https://sammyfreitas.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" />
+  </a>
 </p>
 
+
 ## Sobre mim
+Sou Anthony Freitas, Engenheiro de Software na **CarrierWeb** e Professor de programação e tecnologias no **SENAI Maracanã**, atuando com desenvolvimento Front-End e Back-End, redes, sistemas operacionais, Power BI, Excel e tecnologias aplicadas à formação profissional.
 
-Sou engenheiro de software na **CarrierWeb** e professor no **SENAI Maracanã**, onde ensino desenvolvimento Front-End e Back-End, redes, sistemas operacionais, Power BI, Excel e outras tecnologias aplicadas à formação profissional.
+Minha trajetória une tecnologia, educação e impacto social. Gosto de transformar problemas reais em soluções digitais e traduzir conteúdos complexos em experiências de aprendizagem mais visuais, práticas e acessíveis. Meus projetos passam por desenvolvimento web, dados, jogos educacionais, laboratórios virtuais, educação profissional, inclusão digital, impacto social e empregabilidade.
 
-Gosto de transformar problemas reais em soluções digitais e conteúdos complexos em experiências de aprendizagem mais visuais, práticas e acessíveis. Meus projetos combinam desenvolvimento web, dados, educação profissional, inclusão e impacto social.
+Também sou jornalista, escritor, homem trans, autista/TEA e PCD. Mas são só rótulos porque nada disse me define, ou melhor, tudo me define, mas sem me limitar. Para mim, ocupar espaços na tecnologia e na educação carregando essas vivências é parte importante da minha história. Chegar até aqui não foi apenas uma conquista profissional, mas também uma afirmação de existência, resistência e possibilidade.
 
-Também sou jornalista, escritor, homem trans e autista. Acredito que tecnologia, educação e diversidade podem abrir caminhos — e procuro levar essa visão para os produtos que desenvolvo e para cada turma em que atuo.
+Acredito que tecnologia não precisa ser fria nem distante: ela pode abrir caminhos, aproximar pessoas, ampliar autonomia e criar oportunidades reais. É essa visão que tento levar para os produtos que desenvolvo, para os materiais que crio e para cada turma em que atuo.
+
+
+## GitHub em números
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sammyfreitas&theme=tokyonight" alt="Repositórios por linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sammyfreitas&theme=tokyonight" alt="Linguagens por commits" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sammyfreitas&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
+</div>
+
+
+## Tecnologias e ferramentas
+
+### Front-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" alt="Front-End" />
+</p>
+
+### Back-End
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,cs,dotnet" alt="Back-End" />
+</p>
+
+### Mobile e PWA
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,react,flutter,kotlin,androidstudio,firebase" alt="Mobile e PWA" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=fff" alt="PWA" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=fff" alt="Expo" />
+</p>
+
+### Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" alt="Banco de Dados" />
+</p>
+
+### Jogos e experiências interativas
+Criação de jogos web, protótipos educacionais, mecânicas interativas e identidade GameLab Engine.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,unity,cs" alt="Jogos e experiências interativas" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GameLab%20Engine-2563EB?style=for-the-badge&logo=gamejolt&logoColor=fff" alt="GameLab Engine" />
+  <img src="https://img.shields.io/badge/Canvas%202D-0F172A?style=for-the-badge&logo=html5&logoColor=fff" alt="Canvas 2D" />
+  <img src="https://img.shields.io/badge/Game%20Design-7C3AED?style=for-the-badge&logo=gamemaker&logoColor=fff" alt="Game Design" />
+</p>
+
+
+### UI/UX e Ferramentas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" alt="UI/UX e ferramentas" />
+</p>
+
+### Dados e produtividade
+Power BI, Excel, análise exploratória, visualização de dados e criação de indicadores.
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=fff" alt="Excel" />
+  <img src="https://img.shields.io/badge/An%C3%A1lise%20de%20Dados-2563EB?style=for-the-badge&logo=googlesheets&logoColor=fff" alt="Análise de Dados" />
+  <img src="https://img.shields.io/badge/Indicadores-0F172A?style=for-the-badge&logo=chartdotjs&logoColor=fff" alt="Indicadores" />
+</p>
+
+
+
+### Educação e infraestrutura
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=fff" alt="Windows" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+  <img src="https://img.shields.io/badge/Redes-0F766E?style=for-the-badge&logo=cisco&logoColor=fff" alt="Redes" />
+  <img src="https://img.shields.io/badge/Hardware-64748B?style=for-the-badge&logo=raspberrypi&logoColor=fff" alt="Hardware" />
+  <img src="https://img.shields.io/badge/Seguran%C3%A7a-DC2626?style=for-the-badge&logo=hackthebox&logoColor=fff" alt="Segurança" />
+  <img src="https://img.shields.io/badge/Educa%C3%A7%C3%A3o-7C3AED?style=for-the-badge&logo=googleclassroom&logoColor=fff" alt="Educação" />
+</p>
+
+Sistemas operacionais, redes, hardware, segurança, metodologias de aprendizagem e desenho de experiências educacionais.
+
 
 ## Projetos em destaque
 
@@ -68,15 +160,6 @@ Também sou jornalista, escritor, homem trans e autista. Acredito que tecnologia
 - Mentoria, orientação de projetos e produção de material didático;
 - Revisão e produção de textos técnicos, acadêmicos e criativos.
 
-## Tecnologias e ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,native,js,ts,nodejs,react,native,python,cs,dotnet,native,native,native,native,html,css,native,mysql,postgres,git,github,native,figma,vscode" alt="Tecnologias utilizadas por Anthony Freitas" />
-</p>
-
-**Dados e produtividade:** Power BI, Excel, análise exploratória, visualização de dados e criação de indicadores.
-
-**Educação e infraestrutura:** Sistemas operacionais, redes, hardware, segurança, metodologias de aprendizagem e desenho de experiências educacionais.
 
 ## Atuação como Engenheiro
 
@@ -133,18 +216,7 @@ Atualmente curso **Tecnologia em Jogos Digitais**, concluindo este mês (out/26)
 
 Essa combinação multidisciplinar me ajuda a enxergar software não apenas como código, mas como uma solução construída para pessoas.
 
-## GitHub em números
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sammyfreitas&show_icons=true&locale=pt-br&hide_border=true" alt="Estatísticas do GitHub de Anthony Freitas" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyfreitas&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas por Anthony Freitas" />
-</p>
-
-## GitHub em números
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sammyfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Anthony Freitas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyfreitas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Anthony Freitas" />
-</div>
 
 ## Vamos conversar?
 
