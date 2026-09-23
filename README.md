@@ -140,6 +140,12 @@ Essa combinação multidisciplinar me ajuda a enxergar software não apenas como
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyfreitas&layout=compact&locale=pt-br&hide_border=true" alt="Linguagens mais utilizadas por Anthony Freitas" />
 </p>
 
+## GitHub em números
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sammyfreitas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub de Anthony Freitas" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammyfreitas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas por Anthony Freitas" />
+</div>
+
 ## Vamos conversar?
 
 Estou aberto a trocar experiências sobre tecnologia, educação profissional, projetos de impacto, diversidade e desenvolvimento de soluções digitais.
@@ -147,6 +153,14 @@ Estou aberto a trocar experiências sobre tecnologia, educação profissional, p
 - [LinkedIn](https://www.linkedin.com/in/tony-s-freitas/)
 - [Portfólio](https://sammyfreitas.github.io/portfolioSite/)
 - [E-mail](mailto:tonysdefreitas@gmail.com)
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sammyfreitas/sammyfreitas/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
